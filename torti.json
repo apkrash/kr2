@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Торт &#xABПрага&#xBB",
+    "vendor_code": "111",
+    "price": 2000,
+    "img": "praga.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Торт &#xABКрасный бархат&#xBB",
+    "vendor_code": "222",
+    "price": 3200,
+    "img": "красныйбархат.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Торт &#xABМедовик&#xBB",
+    "vendor_code": "333",
+    "price": 3800,
+    "img": "медовик.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Торт &#xABНаполеон&#xBB",
+    "vendor_code": "444e",
+    "price": 2800,
+    "img": "наполеон.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Торт &#xABПтичье молоко&#xBB",
+    "vendor_code": "445e",
+    "price": 2500,
+    "img": "птичьемолоко.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Торт &#xABЧерничный&#xBB",
+    "vendor_code": "446e",
+    "price": 3000,
+    "img": "черника.jpg"
+  }
+]

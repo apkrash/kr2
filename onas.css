@@ -1,0 +1,98 @@
+body{
+    font-family: 'dance', serif;
+    background-color: white;
+    }
+
+.nav-link {
+ position: relative;
+ left: 900px;
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+    }
+
+.navbar-brand {
+    text-align: center;
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+    }
+
+.main-title{
+    margin: 10px auto;
+    color: black;
+    padding:15px;
+    font-size: 60px;
+}
+.opisanie{
+    width: 100%;
+    margin: 10px auto;
+    background: white;
+    color: black;
+    padding:15px;
+    font-size: 30px;
+}
+ .cake-wrap {
+width: 500px;
+    margin: 10px 15px;
+    background: white;
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+    padding: 30px;
+ }
+
+.cake {
+    position: relative;
+    overflow: hidden;
+    }
+
+.cake img {
+   width: 380px;
+    }
+
+footer {
+    text-align: center;
+    font-size: 30px;
+    border:  solid black;
+    }
+
+
+.bottom-links {
+text-align: center;
+padding: 50px 100px 50px 50px;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #DCDCDC;
+}
+
+.onas-wrap{
+    display:flex;
+    padding: 50px;
+    }
+
+ .icon-wrap {
+    width: 410px;
+    height:220px;
+    margin: 10px 15px 40px;
+    background: white;
+    text-align: center;
+    font-size: 25px;
+    border: solid;
+    border-color: gray;
+   position: relative;
+    left: 10%;
+
+ }
+.icon-title {
+      text-decoration: none;
+      color: black;
+      font-weight: 600;
+      margin: 10px;
+      padding: 5px;
+      font-size: 30px;
+      text-align: center;
+
+   }
+
+

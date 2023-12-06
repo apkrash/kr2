@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Пирожное &#xABПерсики&#xBB",
+    "vendor_code": "111",
+    "price": 1000,
+    "img": "персики2.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Капкейки",
+    "vendor_code": "222",
+    "price": 1500,
+    "img": "капкейки2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Пирожное &#xABЭклер&#xBB",
+    "vendor_code": "333",
+    "price": 1000,
+    "img": "эклер.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Пирожное &#xABШу&#xBB",
+    "vendor_code": "444e",
+    "price": 1500,
+    "img": "щу.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Пирожное &#xABКартошка&#xBB",
+    "vendor_code": "445e",
+    "price": 800,
+    "img": "картошкатоп.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Пирожное &#xABМакарунс&#xBB",
+    "vendor_code": "446e",
+    "price": 1500,
+    "img": "макарунс.jpg"
+  }
+]
