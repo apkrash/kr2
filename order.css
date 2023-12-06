@@ -4,6 +4,8 @@ body{
     }
 
 .nav-link {
+    position:relative;
+    left: 900px;
     font-size: 40px;
     padding: 10px 10px 10px 10px;
     }
